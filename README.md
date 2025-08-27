@@ -7,13 +7,13 @@ DogYun（狗云）成立于2019年，是一家提供稳定云服务的公司。D
 ![image](https://github.com/nhrbilkis/DogYun/assets/167834199/b6ad0c1e-67ac-46e4-aad9-d2d1bebf95a9)
 
 ## DogYun 官网地址
-[https://www.dogyun.com/](https://www.dogyun.com)
+[https://www.dogyun.com/](https://www.dogyun.com/?ref=stone)
 
 ## DogYun 优惠码
 - **活动一**：新开弹性云7折，优惠码 `51` 
 - **活动二**：新开独立服务器每月优惠100元，优惠码 `jian100`
 
-[点击查看DogYun官网最新优惠活动](https://www.dogyun.com/)
+[点击查看DogYun官网最新优惠活动](https://www.dogyun.com/?ref=stone)
 
 ## DogYun 优惠活动
 
